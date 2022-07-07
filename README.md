@@ -19,5 +19,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <hr>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrie1lira&show_icons=true&title_color=023d9c&text_color=fff&icon_color=023d9c&bg_color=000&cache_seconds=2300&locale=pt-br">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrie1lira&layout=compact&bg_color=000&title_color=023d9c&text_color=fff&locale=pt-br" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrie1lira&show_icons=true&title_color=023d9c&text_color=fff&icon_color=023d9c&bg_color=000&cache_seconds=2300&locale=pt-br">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrie1lira&layout=compact&bg_color=000&title_color=023d9c&text_color=fff&locale=pt-br" />
+</div>
